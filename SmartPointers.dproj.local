@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/02/02 15:00:35.000.409,=D:\Meus documentos\David\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/02/02 15:02:15.000.377,=D:\Meus documentos\David\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/02/17 11:27:07.000.544,=D:\Meus documentos\David\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/21 21:10:59.000.328,=D:\Meus documentos\David\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/21 21:11:57.000.666,=D:\Meus documentos\David\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/01/12 15:05:56.000.013,=D:\Meus documentos\David\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/01/12 15:07:08.000.520,D:\Meus documentos\David\Embarcadero\Studio\Projects\Unit1.dfm=E:\Meus Arquivos\Projetos\SmartPointers\SmartPointers_MainForm.dfm</Transaction>
+    <Transaction>2020/01/12 15:07:08.000.520,D:\Meus documentos\David\Embarcadero\Studio\Projects\Unit1.pas=E:\Meus Arquivos\Projetos\SmartPointers\SmartPointers_MainForm.pas</Transaction>
+    <Transaction>2020/01/12 15:07:15.000.933,D:\Meus documentos\David\Embarcadero\Studio\Projects\Project1.dproj=E:\Meus Arquivos\Projetos\SmartPointers\SmartPointers.dproj</Transaction>
+    <Transaction>2020/01/12 15:09:24.000.074,=E:\Meus Arquivos\Projetos\SmartPointers\Unit1.pas</Transaction>
+    <Transaction>2020/01/12 15:09:28.000.477,E:\Meus Arquivos\Projetos\SmartPointers\Unit1.pas=E:\Meus Arquivos\Projetos\SmartPointers\SmartPointerClass.pas</Transaction>
+  </Transactions>
+</BorlandProject>
