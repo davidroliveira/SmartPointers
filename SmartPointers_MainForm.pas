@@ -13,13 +13,13 @@ type
     btnSmartShort: TButton;
     btnImplicitCreate: TButton;
     Memo1: TMemo;
-    Button1: TButton;
+    btnPlainCode: TButton;
     procedure btnLeakClick(Sender: TObject);
     procedure btnSmartClick(Sender: TObject);
     procedure btnSmartShortClick(Sender: TObject);
     procedure btnImplicitCreateClick(Sender: TObject);
     procedure Log (const strMsg: string);
-    procedure Button1Click(Sender: TObject);
+    procedure btnPlainCodeClick(Sender: TObject);
   private
     { Private declarations }
   public
@@ -77,7 +77,7 @@ begin
   Log ('Count: ' + IntToStr (TStringList(smartP).Count));
 end;
 
-procedure TFormSmartPointers.Button1Click(Sender: TObject);
+procedure TFormSmartPointers.btnPlainCodeClick(Sender: TObject);
 var
   sl: TStringList;
 begin

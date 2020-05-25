@@ -56,13 +56,13 @@ object FormSmartPointers: TFormSmartPointers
     Height = 289
     TabOrder = 4
   end
-  object Button1: TButton
+  object btnPlainCode: TButton
     Left = 72
     Top = 152
     Width = 113
     Height = 25
-    Caption = 'tbnPlainCode'
+    Caption = 'btnPlainCode'
     TabOrder = 5
-    OnClick = Button1Click
+    OnClick = btnPlainCodeClick
   end
 end

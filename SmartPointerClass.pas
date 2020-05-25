@@ -40,13 +40,13 @@ end;
 
 procedure TSmartPointer<T>.Create;
 begin
-  Create(T.Create);
+  TSmartPointer<T>(Pointer(@Self)^).Create(T.Create);
 end;
 
 function TSmartPointer<T>.GetValue: T;
 begin
   if not Assigned(FFreeTheValue) then
-    Create;
+    TSmartPointer<T>(Pointer(@Self)^).Create;
   Result := FValue;
 end;
 
@@ -73,5 +73,7 @@ begin
   inherited;
 end;
 
+initialization
+  ReportMemoryLeaksOnShutdown := True;
 
 end.
